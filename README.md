@@ -18,9 +18,11 @@
 
 ## 📋 Table of Contents
 - [Personal Information](#personal-information)
-- [Projects](#projects)
-- [Scientific Publications](#scientific-publications)
-- [Interests](#interests)
+- [Skills](#-skills)
+- [Projects](#-projects)
+- [Scientific Publications](#-scientific-publications)
+- [GitHub Stats](#-github-stats)
+- [Social Links](#-social-links)
 
 <br>
 
