@@ -16,6 +16,8 @@
   <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in"</i>
 </p>
 
+<br>
+
 ## 📋 Table of Contents
 - [Personal Information](#personal-information)
 - [Skills](#-skills)
