@@ -80,6 +80,18 @@
 
 <br>
 
+## 💻 Proyectos de Desarrollo de Aplicaciones Web y Móviles
+
+- **Curriculum Personal**  
+  Un proyecto para crear un currículum interactivo y personalizable.  
+  [Repositorio en GitHub](https://github.com/aledicaz/curriculum)
+
+- **Landing Page Sonidos del Sol**  
+  Una landing page para promocionar el grupo "Sonidos del Sol", diseñada con un enfoque en la experiencia de usuario.  
+  [Repositorio en GitHub](https://github.com/aledicaz/landing)
+
+  <br>
+
 ## 📚 Scientific Publications
 - **Title**: Algoritmos genéticos y su posible uso en la música
   - [Read article on Medium](https://medium.com/@taws/algoritmos-gen%C3%A9ticos-y-su-posible-uso-en-la-m%C3%BAsica-3beee0b3b459)
