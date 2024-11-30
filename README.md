@@ -80,15 +80,15 @@
 
 <br>
 
-## 💻 Proyectos de Desarrollo de Aplicaciones Web y Móviles
+## 💻 Web and Mobile Applications Development Projects
 
-- **Curriculum Personal**  
-  Un proyecto para crear un currículum interactivo y personalizable.  
-  [Repositorio en GitHub](https://github.com/aledicaz/curriculum)
+- **Personal Curriculum**  
+  A project to create an interactive and customizable resume.  
+  [GitHub Repository](https://github.com/aledicaz/curriculum)
 
-- **Landing Page Sonidos del Sol**  
-  Una landing page para promocionar el grupo "Sonidos del Sol", diseñada con un enfoque en la experiencia de usuario.  
-  [Repositorio en GitHub](https://github.com/aledicaz/landing)
+- **Sonidos del Sol Landing Page**  
+  A landing page to promote the "Sonidos del Sol" project, designed with a focus on user experience.  
+  [GitHub Repository](https://github.com/aledicaz/landing)
 
   <br>
 
